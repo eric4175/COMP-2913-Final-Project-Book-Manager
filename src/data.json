@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "bookName": "Blink: The Power of Thinking Without Thinking",
+      "read": false
+    },
+    {
+      "id": 2,
+      "bookName": "Harry Potter and the Goblet of Fire",
+      "read": true
+    }
+  ]
